@@ -1,4 +1,5 @@
 # Collaborative Defense-GAN for Protecting Adversarial Attacks on Classification System
+Publication: https://www.sciencedirect.com/science/article/abs/pii/S0957417422019753  
 Defense an adversarial examples with discover GAN 2 domain mapping.
 
 `pip install -r requirements.txt`
